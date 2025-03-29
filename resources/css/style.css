@@ -1,1 +1,17 @@
-# CSS
+body
+{
+	background-color: black;
+	color: white;
+}
+
+p.page_content
+{
+	font-size: 8px;
+	color: light-grey
+}
+
+a.page_link
+{
+	font-size: 8px;
+	color: green
+}
