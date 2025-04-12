@@ -43,3 +43,23 @@ p.page_footer
 	text-align: right;
 	columns: gray;
 }
+
+a:link
+{
+	color: aquamarine
+}
+  
+a:visited
+{
+	color: aquamarine
+}
+  
+a:hover
+{
+	color: aquamarine
+}
+  
+a:active
+{
+	color: aquamarine
+}
